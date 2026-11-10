@@ -1,9 +1,9 @@
 {
-  "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "",
+  "detector": "20261113",
+  "movie": "Ramayana (IMAX 3D)",
+  "requested_date": "20261113",
+  "venue_code": "PVPZ",
+  "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
   "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/ET00451914/20261113",
   "min_references": 10
 }
