@@ -1,9 +1,10 @@
 {
-  "detector": "20261113",
+  "detector": "venue_date",
   "movie": "Ramayana (IMAX 3D)",
   "requested_date": "20261113",
+  "theatre": "PVR: Palazzo, The Nexus Vijaya Mall",
   "venue_code": "PVPZ",
   "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/ET00451914/20261113",
-  "min_references": 10
+  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/ET00451914/{date}"
+
 }
