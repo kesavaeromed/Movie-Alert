@@ -3,7 +3,7 @@
   "movie": "Spider-Man: Brand New Day",
   "requested_date": "20260730",
   "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
+  "venue_label": "",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/ET00451914/20261113",
   "min_references": 10
 }
