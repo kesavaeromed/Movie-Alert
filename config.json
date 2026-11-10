@@ -5,6 +5,6 @@
   "theatre": "PVR: Palazzo, The Nexus Vijaya Mall",
   "venue_code": "PVPZ",
   "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/ET00451914/{date}"
+  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/buytickets/ET00451914/{date}"
 
 }
